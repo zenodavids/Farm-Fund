@@ -16,7 +16,7 @@ Farm Fund is a revolutionary agric-tech Defi that empowers farmers and other agr
 
 ## Project Author
 
-[Chidozie Zeno Ezeanekwe ](https://www.linkedin.com/in/chidozieezeanekwe/)
+**Chidozie**
 
 ## The Smart Contract
 
